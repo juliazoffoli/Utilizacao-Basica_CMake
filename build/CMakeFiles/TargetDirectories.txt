@@ -1,0 +1,3 @@
+C:/Users/Julia/Documents/GitHub/Utilizacao-Basica_CMake/build/CMakeFiles/hello.dir
+C:/Users/Julia/Documents/GitHub/Utilizacao-Basica_CMake/build/CMakeFiles/edit_cache.dir
+C:/Users/Julia/Documents/GitHub/Utilizacao-Basica_CMake/build/CMakeFiles/rebuild_cache.dir

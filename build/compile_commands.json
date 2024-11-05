@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Julia/Documents/GitHub/Utilizacao-Basica_CMake/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\hello.dir\\hello.cpp.obj -c C:\\Users\\Julia\\Documents\\GitHub\\Utilizacao-Basica_CMake\\hello.cpp",
+  "file": "C:/Users/Julia/Documents/GitHub/Utilizacao-Basica_CMake/hello.cpp",
+  "output": "CMakeFiles/hello.dir/hello.cpp.obj"
+}
+]
